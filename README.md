@@ -1,2 +1,1 @@
-#IAC(Intelligence Analytics Challenge) Hackathon 
-#In this project, I have worked on UNICEF’S FLAGSHIP PUBLICATION AFFECTING CHILDREN DIMENSIONAL MODELLING USING TABLEAU AND MS EXCEL
+#IAC(Intelligence Analytics Challenge) Hackathon March 2020
